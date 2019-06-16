@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Swamp"
+  },
+  {
+    "id": 1,
+    "name": "Village"
+  },
+  {
+    "id": 2,
+    "name": "City"
+  },
+  {
+    "id": 3,
+    "name": "Power Plant"
+  },
+  {
+    "id": 4,
+    "name": "Forest"
+  }
+]
